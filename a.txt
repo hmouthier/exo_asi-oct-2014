@@ -1,4 +1,4 @@
-Hello GitHub.
-Je change mon fichier
+Hello GitHub!
+Je change mon fichier.
 git clone https://github.com/hmouthier/exo_asi-oct-2014.git
-
+git commit -m "Ajout du fichier a.txt"
