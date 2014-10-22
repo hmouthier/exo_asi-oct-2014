@@ -5,4 +5,5 @@ git commit -m "Ajout du fichier a.txt"
 git diff a.txt
 git add -p a.txt
 git push
+git pull
 
