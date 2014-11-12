@@ -1,6 +1,6 @@
 Exercice d'architecture des systèmes d'information
 ================
-#Lancement de la VM
+##Lancement de la VM
 Aller dans le dossier téléchargé
 
 	$ vagrant up
