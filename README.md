@@ -1,6 +1,5 @@
 Exercice d'architecture des systèmes d'information
 ================
-##Récupération du dépot
 
 ##Lancement de la VM
 	set HTTP_PROXY=http://10.0.4.2:3128
