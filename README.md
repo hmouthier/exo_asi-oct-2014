@@ -2,8 +2,6 @@ Exercice d'architecture des systèmes d'information
 ================
 ##Récupération du dépot
 ##Lancement de la VM
-
-
 	env.bat
 	vagrant plugin install vagrant-proxyconf
 	vagrant box -v add dduportal/boot2docker
@@ -17,7 +15,7 @@ Pour lancer la VM, la baleine de Boot2docker apparaît
 
 	./run.sh
 	
-Lancer votre localhost:8080 dans votre navigateur
+Lancer http://127.0.0.1:8080/geoserver/ dans votre navigateur
 
 * Login : admin
 * Password : geoserver
