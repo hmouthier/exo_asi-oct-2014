@@ -1,8 +1,14 @@
 Exercice d'architecture des systèmes d'information
 ================
+##Récupération du dépot
 ##Lancement de la VM
+
+
 	env.bat
-Aller dans le dossier téléchargé
+	vagrant plugin install vagrant-proxyconf
+	vagrant box -v add dduportal/boot2docker
+
+Aller dans le dossier 
 
 	vagrant up
 	vagrant ssh
