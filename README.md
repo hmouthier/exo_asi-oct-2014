@@ -11,9 +11,10 @@ Exercice d'architecture des systèmes d'information
 	set VAGRANT_NO_PROXY=localhost
 	vagrant plugin install vagrant-proxyconf
 	vagrant box -v add dduportal/boot2docker
-
-Aller dans le dossier 
 	git clone https://github.com/hmouthier/exo_asi-oct-2014.git
+	
+Aller dans le dossier 
+
 	vagrant up
 	vagrant ssh
 
